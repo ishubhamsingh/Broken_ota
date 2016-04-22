@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BrokenOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+  <UNOFFICIAL>
+   <osprey>
+      <Filename>Broken-v4.5-osprey-6.0.1-UNOFFICIAL-20160411.zip</Filename>
+      <RomUrl
+          id="rom"
+          title="Rom"
+          description="Download Broken build">https://www.androidfilehost.com/?w=files&amp;flid=51749</RomUrl>
+      <GappsUrl
+          id="gapps"
+          title="Gapps"
+          description="Download the latest BaNkS GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps</GappsUrl>
+    </osprey>
+   </UNOFFICIAL>
+</BrokenOTA>
