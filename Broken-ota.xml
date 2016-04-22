@@ -2,7 +2,7 @@
 <BrokenOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <UNOFFICIAL>
    <osprey>
-      <Filename>Broken-v4.5-osprey-6.0.1-UNOFFICIAL-20160411.zip</Filename>
+      <Filename>Broken-v4.5-osprey-6.0.1-UNOFFICIAL-20160422.zip</Filename>
       <RomUrl
           id="rom"
           title="Rom"
