@@ -2,11 +2,15 @@
 <BrokenOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
   <UNOFFICIAL>
    <osprey>
-      <Filename>Broken-v4.5-osprey-6.0.1-UNOFFICIAL-20160422.zip</Filename>
+      <Filename>Broken-v4.7-osprey-6.0.1-UNOFFICIAL-20160517.zip</Filename>
       <RomUrl
           id="rom"
           title="Rom"
-          description="Download Broken build">https://www.androidfilehost.com/?w=files&amp;flid=50981</RomUrl>
+          description="Download latest Broken build">https://www.androidfilehost.com/?fid=24533103863141053</RomUrl>
+<ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View changelog">http://hastebin.com/atazaxoqiw.vhdl</ChangelogUrl>
       <GappsUrl
           id="gapps"
           title="Gapps"
