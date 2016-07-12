@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <BrokenOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-  <UNOFFICIAL>
+  <UNSUPPORTED>
    <osprey>
-      <Filename>Broken-v4.9-osprey-6.0.1-UNSUPPORTED-20160705.zip</Filename>
+      <Filename>Broken-v4.9-osprey-6.0.1-UNSUPPORTED-20160712.zip</Filename>
       <RomUrl
           id="rom"
           title="Rom"
-          description="Download latest Broken build">https://www.androidfilehost.com/?fid=24591000424944642</RomUrl>
+          description="Download latest Broken build">https://www.androidfilehost.com/?fid=24591000424946588</RomUrl>
 <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View changelog">https://www.androidfilehost.com/?fid=24591000424944641</ChangelogUrl>
+                description="View changelog">https://www.androidfilehost.com/?fid=24591000424946587</ChangelogUrl>
       <GappsUrl
           id="gapps"
           title="Gapps"
           description="Download the latest BaNkS GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps</GappsUrl>
     </osprey>
-   </UNOFFICIAL>
+   </UNSUPPORTED>
 </BrokenOTA>
